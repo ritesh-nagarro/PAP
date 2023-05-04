@@ -1,0 +1,61 @@
+.logo {
+    width: 100%;
+}
+
+.navbar {
+    justify-content: space-around;
+}
+
+.search {
+    width: 100%;
+    margin-top: 25px;
+}
+
+#searchbar {
+    width: 80%;
+}
+
+.padding-top {
+    padding-top: 25px;
+}
+.btn {
+    vertical-align: inherit;
+}
+.searchbar {
+    display: inline;
+    width: auto;
+}
+
+.section-title {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid lightgrey;
+}
+
+.heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.product img {
+    width: 60%;
+}
+
+.product .title {
+    font-size: 10px;
+}
+
+.cart {
+    width: 10%;
+}
+
+form {
+    display: inline;
+}
